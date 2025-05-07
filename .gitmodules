@@ -1,0 +1,3 @@
+[submodule "LMBaseEncryption"]
+	path = LMBaseEncryption
+	url = git@github.com:zhaoxifan666/LMBaseEncryption.git
