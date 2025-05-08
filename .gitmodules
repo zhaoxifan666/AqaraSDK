@@ -1,3 +1,9 @@
 [submodule "LMBaseEncryption"]
 	path = LMBaseEncryption
 	url = git@github.com:zhaoxifan666/LMBaseEncryption.git
+[submodule "LMLog"]
+	path = LMLog
+	url = git@github.com:zhaoxifan666/LMLog.git
+[submodule "LMFramework"]
+	path = LMFramework
+	url = git@github.com:zhaoxifan666/LMFramework.git
