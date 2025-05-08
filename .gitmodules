@@ -7,3 +7,6 @@
 [submodule "LMFramework"]
 	path = LMFramework
 	url = git@github.com:zhaoxifan666/LMFramework.git
+[submodule "LMDeviceAccessNet"]
+	path = LMDeviceAccessNet
+	url = git@github.com:zhaoxifan666/LMDeviceAccessNet.git
