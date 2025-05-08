@@ -10,3 +10,28 @@
 [submodule "LMDeviceAccessNet"]
 	path = LMDeviceAccessNet
 	url = git@github.com:zhaoxifan666/LMDeviceAccessNet.git
+[submodule "LMCommonUI"]
+	path = LMCommonUI
+	url = git@github.com:zhaoxifan666/LMCommonUI.git
+[submodule "LMCommonUISwift"]
+	path = LMCommonUISwift
+	url = git@github.com:zhaoxifan666/LMCommonUISwiftt.git
+[submodule "LMSwiftCore"]
+	path = LMSwiftCore
+	url = git@github.com:zhaoxifan666/LMSwiftCore.git
+[submodule "LMExtensionNetwork"]
+	path = LMExtensionNetwork
+	url = git@github.com:zhaoxifan666/LMExtensionNetwork.git
+[submodule "LMMatterCore"]
+	path = LMMatterCore
+	url = git@github.com:zhaoxifan666/LMMatterCore.git
+[submodule "LMMatter"]
+	path = LMMatter
+	url = git@github.com:zhaoxifan666/LMMatter.git
+[submodule "LMAppleHomeConnect"]
+	path = LMAppleHomeConnect
+	url = git@github.com:zhaoxifan666/LMAppleHomeConnect.git
+[submodule "LMSmartConnect"]
+	path = LMSmartConnect
+	url = git@github.com:zhaoxifan666/LMSmartConnect.git
+
